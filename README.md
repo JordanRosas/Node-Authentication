@@ -2,7 +2,7 @@
 
 Boiler plate node express application that demonstrates a very simple authentication system. 
 
-This repo is for those who are new to creating authentication system from scratch abd tose that want to poke around a simple application I **do not reccomend ripping this repo and using it for you applications main authentication system.** It can serve as a decent roadmap but make your own ;)
+This repo is for those who are new to creating authentication system from scratch and those that want to poke around a simple application I **do not reccomend ripping this repo and using it for you applications main authentication system.** It can serve as a decent roadmap but make your own ;)
 
 ## Steps to run the project
 =================================================
